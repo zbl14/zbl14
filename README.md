@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Zhibin's GitHub stats](https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true)
-[![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14)](https://github-readme-stats-iota-ochre.vercel.app)
+[![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14)](https://github-readme-stats-zbl14.vercel.app)
