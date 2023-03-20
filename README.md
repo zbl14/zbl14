@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Zhibin's GitHub stats](https://github-readme-stats-plum-sigma-51.vercel.app/api?username=zbl14&show_icons=true)
-[![Top Langs](https://github-readme-stats-plum-sigma-51.vercel.app/api/top-langs/?username=zbl14)](https://github.com/anuraghazra/github-readme-stats)
