@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zhibin's GitHub stats](https://github-readme-stats-plum-sigma-51.vercel.app/api?username=zbl14&show_icons=true)
