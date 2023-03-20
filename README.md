@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zhibin's GitHub stats](https://github-readme-stats-git-master-zbl14.vercel.app/api?username=zbl14&show_icons=true)
+![Zhibin's GitHub stats](https://github-readme-stats-git-master-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats-git-master-zbl14.vercel.app/api/top-langs/?username=zbl14)](https://github-readme-stats-iota-ochre.vercel.app)
