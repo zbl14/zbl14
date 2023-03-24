@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img height="200" src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true&card_width=300" alt="Zhibin's GitHub stats"/>
-    <img height="200" src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&layout=compact&card_width=300" alt="Top Langs"/>
+    <img height="200" src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&layout=compact&langs_count=6&card_width=300" alt="Top Langs"/>
 </p>
 
