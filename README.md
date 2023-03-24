@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true&card_width=450" alt="Zhibin's GitHub stats"/>
 </p>
