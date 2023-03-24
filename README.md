@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Zhibin's GitHub stats](https://github-readme-stats-zbl14.vercel.app/api?username=zbl14)
+
