@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 ![Zhibin's GitHub stats](https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14)
+
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14" align = "center"/>
+</p>
