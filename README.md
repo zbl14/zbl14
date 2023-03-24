@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Zhibin's GitHub stats](https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true)
-![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&custom_width=400)
+![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&custom_width=700)
+![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&custom_width=200)
 
