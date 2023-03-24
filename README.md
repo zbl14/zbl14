@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-<img wide="1800em" src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true" align = "center"/>
-<img wide="1800em" src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14" align = "center"/>
+<img wide="180" src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true" align = "center"/>
+<img wide="180" src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14" align = "center"/>
