@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Zhibin's GitHub stats](https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true&card_width=500)
-![Top Langs](https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&layout=compact&card_width=500)
-
 <p align="center">
-  <img src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true&card_width=500" alt="Zhibin's GitHub stats"/>
+  <img src="https://github-readme-stats-zbl14.vercel.app/api?username=zbl14&show_icons=true&count_private=true&hide_rank=true&card_width=450" alt="Zhibin's GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&layout=compact&card_width=500" alt="Top Langs"/>
+  <img src="https://github-readme-stats-zbl14.vercel.app/api/top-langs/?username=zbl14&layout=compact&card_width=450" alt="Top Langs"/>
 </p>
